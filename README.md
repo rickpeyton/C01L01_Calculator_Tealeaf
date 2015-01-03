@@ -1,3 +1,2 @@
-# Course 01 Lecture 01
-
-## Assignment: Calculator
+# Calculator Assignment
+Tealeaf Academy: C01L01
